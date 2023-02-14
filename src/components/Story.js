@@ -1,10 +1,10 @@
 export default function Story(props) {
     return (
-        <div class="story">
-            <div class="image">
+        <div className="story">
+            <div className="image">
                 <img src={props.imagem} alt={props.usuario}/>
             </div>
-            <div class="usuario">
+            <div className="usuario">
                 {props.usuario}
             </div>
         </div>

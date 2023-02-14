@@ -304,6 +304,10 @@
     padding-top: 5px;
     color: black;
   }
+
+  .conteudo {
+    position: relative;
+  }
   
   .vermelho {
     color: red;
